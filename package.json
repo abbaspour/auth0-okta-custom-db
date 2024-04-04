@@ -1,0 +1,22 @@
+{
+  "name": "auth0-okta-custom-db",
+  "version": "0.1.0",
+  "description": "Auth0 custom-db for passthrough or lazy migration from Okta",
+  "main": "db/login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth0",
+    "okta",
+    "custom-db",
+    "lazy",
+    "migration"
+  ],
+  "author": "Amin Abbaspour <amin.abbaspour@okta.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "1.6.5",
+    "jwt-decode": "3.1.2"
+  }
+}
