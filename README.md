@@ -7,4 +7,5 @@ Todo:
 - [ ] MFA Action 
 - [ ] Terraform
 - [ ] Unit test
+- [ ] id_token validation
 - [ ] non-migrating db script: change_email, delete, change_password
